@@ -1,1 +1,1 @@
-wp-config-dev.php
+wp-config-foo.php
